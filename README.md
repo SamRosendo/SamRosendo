@@ -1,6 +1,6 @@
-### Olá!! Eu sou a Samella Rosendo  👋
+### Olá Prazer, Sâmella Rosendo  👋
 
-- 🌱 No ensino tecnico em Desenvolvimento de Sistemas 
+- 🌱 Me descobrindo e descobrindo interesses
 - 📚 Començando na programação
 - 😄 Pronouns: Ela/Dela 
 
