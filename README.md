@@ -16,6 +16,7 @@ Here are some of the technologies and tools I work with or am currently studying
   <img src="https://shields.io" alt="HTML5" />
   <img src="https://shields.io" alt="CSS3" />
   <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="Java" />
 </p>
 
 *(Tip: Feel free to add more badges here as you learn new languages like Python, Java, or SQL!)*
