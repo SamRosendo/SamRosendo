@@ -1,28 +1,40 @@
-### Olá Prazer, Sâmella Rosendo  👋
+# Hi there, I'm Sâmella Rosendo! 👋
 
-- 🌱 Me descobrindo e descobrindo interesses
-- 📚 Començando na programação
-- 😄 Pronouns: Ela/Dela 
+I am a Software Engineering student currently pursuing my technologist degree in Analysis and Systems Development at Cruzeiro do Sul University (expected graduation: December 2027). I am passionate about technology, continuous learning, and building impactful software solutions.
 
-  <!--meu git stats-->
-<div align="center">
-  <a href="https://github.com/SamRosendo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamRosendo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamRosendo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  <!--linguagens que sei--->
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-JAVA" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />
- 
-</div>
+- 💻 **Current Focus:** Exploring software development, programming logic, and college-led academic projects.
+- 🌱 **Learning Journey:** Actively expanding my tech stack and developing clean, well-documented code.
+- 💬 **Pronouns:** She/Her
 
-##
-<!--minhas redes-->
-<div> 
-  <a href = "mailto:samella.rosendo0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### 🛠️ Tech Stack & Tools
+
+Here are some of the technologies and tools I work with or am currently studying:
+
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
+
+*(Tip: Feel free to add more badges here as you learn new languages like Python, Java, or SQL!)*
+
+---
+
+### 📂 Featured Academic Projects
+
+*   **[estudos-Cruzeiro](https://github.com)**: A dedicated repository containing academic activities, study guides, and problem-solving exercises developed throughout my university coursework.
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
