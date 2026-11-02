@@ -12,12 +12,8 @@ I am a Software Engineering student currently pursuing my technologist degree in
 
 Here are some of the technologies and tools I work with or am currently studying:
 
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![Java](https://shields.io)
+
 
 
 ---
@@ -30,12 +26,5 @@ Here are some of the technologies and tools I work with or am currently studying
 
 ### 📫 Connect with me
 
-<p align="left">
-  <a href="mailto:seu-email@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
+[![Gmail](https://shields.io)](mailto:samella,rosendo0@gmail.com) [![LinkedIn](https://shields.io)](www.linkedin.com/in/sâmella-r-6581ba234)
 
