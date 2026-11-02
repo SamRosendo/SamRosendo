@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with or am currently studying
 
 ### 📂 Featured Academic Projects
 
-*   **[estudos-Cruzeiro](https://github.com/SEU-USUARIO/estudos-Cruzeiro)**: A dedicated repository containing academic activities, study guides, and problem-solving exercises developed throughout my university coursework.
+*   **[study-cruzeiro](https://github.com/SEU-USUARIO/study-cruzeiro)**: A dedicated repository containing academic activities, study guides, and problem-solving exercises developed throughout my university coursework.
 
 ---
 
