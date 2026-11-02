@@ -13,13 +13,12 @@ I am a Software Engineering student currently pursuing my technologist degree in
 Here are some of the technologies and tools I work with or am currently studying:
 
 <p align="left">
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="Java" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </p>
 
-*(Tip: Feel free to add more badges here as you learn new languages like Python, Java, or SQL!)*
 
 ---
 
@@ -33,9 +32,10 @@ Here are some of the technologies and tools I work with or am currently studying
 
 <p align="left">
   <a href="mailto:seu-email@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
+    <img src="https://shields.io" />
   </a>
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" />
   </a>
 </p>
+
